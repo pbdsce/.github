@@ -1,89 +1,90 @@
-# Point Blank
+# 🎯 **Point Blank**  
 
-Point Blank, a student-run tech community at *Dayananda Sagar College of Engineering (DSCE)* in Bangalore, India. This club houses open-source projects, collaborative efforts, and student-driven initiatives.
+Point Blank is a vibrant, student-run tech community that thrives on open-source contributions, collaborative innovations, and student-led initiatives. 🚀  
 
+---
 
-## Mission
+## 🌟 **Mission**  
+Uniting tech enthusiasts passionate about coding, development, and learning, Point Blank provides a platform for collaborative growth. Members work on impactful projects that foster innovation and skill development.  
 
-Point Blank brings together tech enthusiasts passionate about coding, development, and learning. The goal is to provide a platform for collaborative growth, enabling members to work on impactful projects.
+---
 
+## ⚡ **Activities and Initiatives**  
 
-## Activities and Initiatives
+### 💻 **Coding Contests**  
+- Hosted *100+ editions* of **PB Hustle**, the flagship coding competition.  
+- Sharpened skills for prestigious challenges like **ACM ICPC**.  
 
-### Coding Contests
+### 🛠️ **Workshops**  
+- Delivered *100+ workshops* covering:  
+  - 🚀 **Open Source Development**  
+  - 🔧 **DevOps Practices**  
+  - 🤖 **Machine Learning Fundamentals**  
+  - 🎯 **Placement Preparation**  
+  - 🧠 **Data Structures and Algorithms**  
+  - 🌐 **Web & Mobile Development**  
 
-- Over *100 editions of PB Hustle* , a flagship coding competition to enhance programming skills and prepare students for challenges like *ACM ICPC*.
+### 🎉 **Hackathons**  
+- Organized internal rounds for **Smart India Hackathon (SIH)**.  
+- Multiple teams advanced to the finals and claimed top positions. 🏆  
 
-### Workshops
+### 🔒 **Cybersecurity Events**  
+- Initiated **PBCTF** (*Capture The Flag*) competitions to gain hands-on experience in cybersecurity.  
 
-- Conducted *100+ workshops* on topics such as:
-  - Open Source
-  - DevOps
-  - Machine Learning
-  - Placement Preparation
-  - Data Structures and Algorithms
-  - Web and Mobile Development
+---
 
-### Hackathons
+## 🛠️ **Domains of Expertise**  
 
-- Organized internal rounds of the *Smart India Hackathon (SIH)*, with multiple teams advancing to the finals and winning.
+Point Blank excels in a diverse range of tech domains:  
 
-### Cybersecurity Events
+- 🤹 **Competitive Programming** (*ACM ICPC, Kaggle*)  
+- 🌐 **IoT & ML Development**  
+- 🔬 **Machine Learning Research**  
+- 🚀 **DevOps Practices**  
+- 📱 **Flutter & React Development**  
+- 🌟 **Open Source Contributions**  
+- 💼 **Interview Preparation**  
 
-- Launched *PBCTF*, an in-house *Capture The Flag* event for practical experience in cybersecurity.
+---
 
+## 🌐 **Community & Collaboration**  
 
-## Domains of Expertise
+We bring together students from all engineering branches and years, enabling them to participate in prestigious events like:  
 
-The community works in diverse fields, including:
+- 🌟 **Google Summer of Code (GSoC)**  
+- 🏆 **Smart India Hackathon (SIH)**  
 
-- Competitive Coding (ACM - ICPC, Kaggle)
-- IoT and Machine Learning
-- Machine Learning Research
-- DevOps
-- Flutter and React Development
-- Open Source Contributions
-- Interview Preparation
+Point Blank is a hallmark of collaborative excellence, standing as a leading tech group within DSCE and beyond.  
 
+---
 
-## Community and Collaboration
+## 🚀 **Featured Projects**  
 
-Point Blank connects students from all engineering branches and years. Members have participated in prestigious competitions such as:
+### 🌐 [**pbwebsite**](https://github.com/pbdsce/pbwebsite)  
+The official Point Blank website showcasing achievements and initiatives:  
 
-- *Google Summer of Code (GSoC)*
-- *Smart India Hackathon (SIH)*
+- ⚡ Built with **Next.js** and **Tailwind CSS**  
+- 🔧 Backend powered by **Firebase**  
 
-The community fosters open collaboration, establishing itself as a leading tech group within DSCE and beyond.
+**Quick Links:**  
+- 🌍 [Live Website](https://www.pointblank.club)  
+- 🛠️ [Issues](https://github.com/pbdsce/pbwebsite/issues)  
 
+---
 
-## Featured Projects
+## 🌟 **Connect With Us**  
 
-### [pbwebsite](https://github.com/pbdsce/pbwebsite)
+Join the Point Blank community and stay updated on our activities:  
 
-The official Point Blank website showcasing achievements and initiatives.
+- 🌍 **Website:** [pointblank.club](https://www.pointblank.club)  
+- 🐙 **GitHub:** [github.com/pbdsce](https://github.com/pbdsce)  
+- 📸 **Instagram:** [@pointblank_dsce](https://www.instagram.com/pointblank_dsce/)  
+- 🐦 **X (formerly Twitter):** [@pointblank_dsce](https://x.com/pointblank_dsce)  
 
-- Built using *Next.js* and *Tailwind CSS*
-- Backend powered by *Firebase*
+---
 
+## 📊 **GitHub Stats**  
 
-
-*Quick Links:*
-
-- [Live Website](https://www.pointblank.club)
-- [Issues](https://github.com/pbdsce/pbwebsite/issues)
-
-
-## Connect With Point Blank
-
-- *Website:* [pointblank.club](https://www.pointblank.club)
-- *GitHub:* [github.com/pbdsce](https://github.com/pbdsce)
-- *Instagram:* [@pointblank\_dsce](https://www.instagram.com/pointblank_dsce/)
-- *Facebook:* [facebook.com/PBDSCE](https://www.facebook.com/PBDSCE/)
-- *X (formerly Twitter):* [@pointblank\_dsce](https://x.com/pointblank_dsce)
-
-
-# GitHub Stats
-
-<p align="center">
-    <img width="500" src="../github-metrics.svg" alt="GitHub Stats">
-</p>
+<p align="center">  
+    <img width="500" src="../github-metrics.svg" alt="GitHub Stats">  
+</p>  
