@@ -1,7 +1,6 @@
 <br>
-<p style="text-align:center;" align="center">
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/YOUR_ORG_ID?s=200&v=4" width="200px;" alt="Point Blank Logo"/>
-  </td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pointblank-club/.github/main/profile/logo.svg" width="400px" alt="Point Blank Logo"/>
 </p>
 
 <h1 align="center"> Welcome to Point Blank 👋 </h1>
@@ -41,7 +40,7 @@ We're a tech collective building open source alternatives and developer tools. O
 
 ## 🌟 Community Highlights
 
-- **20+ GSoC Contributors** across multiple years
+- **20+ GSoC Contributors** and **6+ LFX Mentees** across multiple years
 - **100+ Technical Workshops** on open source, DevOps, ML, and more
 - **100+ Weekly Coding Contests** (PB Hustle)
 - **Active Open Source Community** with contributors worldwide
