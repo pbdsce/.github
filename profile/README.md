@@ -18,7 +18,7 @@ Building practical open source alternatives through collaborative innovation. Fr
   &nbsp;
   <a href="https://pointblank.club/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-0A0A0A.svg?style=for-the-badge&logo=rss&logoColor=white"></a>
   &nbsp;
-  <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/wxxCA2J5EV" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   &nbsp;
   <a href="https://instagram.com/pointblank_club" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   &nbsp;
@@ -26,7 +26,7 @@ Building practical open source alternatives through collaborative innovation. Fr
 
 <div align="center">
 
-[<kbd><br><b> ⭐ Star and Explore Projects ➜ </b><br></kbd>](https://github.com/pointblank-club) [<kbd><br><b> 👥 Join our Community ➜ </b><br></kbd>](https://discord.gg/YOUR_DISCORD_INVITE)
+[<kbd><br><b> ⭐ Star and Explore Projects ➜ </b><br></kbd>](https://github.com/pointblank-club) [<kbd><br><b> 👥 Join our Community ➜ </b><br></kbd>](https://discord.gg/wxxCA2J5EV)
 
 </div>
 
