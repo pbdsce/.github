@@ -1,90 +1,67 @@
-# 🎯 **Point Blank**  
+<br>
+<p style="text-align:center;" align="center">
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/YOUR_ORG_ID?s=200&v=4" width="200px;" alt="Point Blank Logo"/>
+  </td>
+</p>
 
-Point Blank is a vibrant, student-run tech community that thrives on open-source contributions, collaborative innovations, and student-led initiatives. 🚀  
+<h1 align="center"> Welcome to Point Blank 👋 </h1>
 
----
+<h5 align="center">
+Building practical open source alternatives through collaborative innovation. From competitive programming platforms to developer tools, we create software that communities actually use.
+</h5>
 
-## 🌟 **Mission**  
-Uniting tech enthusiasts passionate about coding, development, and learning, Point Blank provides a platform for collaborative growth. Members work on impactful projects that foster innovation and skill development.  
+<br>
 
----
+<p align="center">
+  <a href="https://twitter.com/pointblank_club" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/pointblank-club/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  &nbsp;
+  <a href="https://pointblank.club/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-0A0A0A.svg?style=for-the-badge&logo=rss&logoColor=white"></a>
+  &nbsp;
+  <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  &nbsp;
+  <a href="https://instagram.com/pointblank_club" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  &nbsp;
+</p>
 
-## ⚡ **Activities and Initiatives**  
+<div align="center">
 
-### 💻 **Coding Contests**  
-- Hosted *100+ editions* of **PB Hustle**, the flagship coding competition.  
-- Sharpened skills for prestigious challenges like **ACM ICPC**.  
+[<kbd><br><b> ⭐ Star and Explore Projects ➜ </b><br></kbd>](https://github.com/pointblank-club) [<kbd><br><b> 👥 Join our Community ➜ </b><br></kbd>](https://discord.gg/YOUR_DISCORD_INVITE)
 
-### 🛠️ **Workshops**  
-- Delivered *100+ workshops* covering:  
-  - 🚀 **Open Source Development**  
-  - 🔧 **DevOps Practices**  
-  - 🤖 **Machine Learning Fundamentals**  
-  - 🎯 **Placement Preparation**  
-  - 🧠 **Data Structures and Algorithms**  
-  - 🌐 **Web & Mobile Development**  
+</div>
 
-### 🎉 **Hackathons**  
-- Organized internal rounds for **Smart India Hackathon (SIH)**.  
-- Multiple teams advanced to the finals and claimed top positions. 🏆  
+<br>
 
-### 🔒 **Cybersecurity Events**  
-- Initiated **PBCTF** (*Capture The Flag*) competitions to gain hands-on experience in cybersecurity.  
+## 🚀 What We Do
 
----
+We're a tech collective building open source alternatives and developer tools. Our projects range from competitive programming trackers to campus management systems—all built collaboratively, all production-ready.
 
-## 🛠️ **Domains of Expertise**  
+**Domains:** Competitive Programming • Web & Mobile Development • ML/AI • DevOps • Cybersecurity • Open Source
 
-Point Blank excels in a diverse range of tech domains:  
+## 🌟 Community Highlights
 
-- 🤹 **Competitive Programming** (*ACM ICPC, Kaggle*)  
-- 🌐 **IoT & ML Development**  
-- 🔬 **Machine Learning Research**  
-- 🚀 **DevOps Practices**  
-- 📱 **Flutter & React Development**  
-- 🌟 **Open Source Contributions**  
-- 💼 **Interview Preparation**  
+- **20+ GSoC Contributors** across multiple years
+- **100+ Technical Workshops** on open source, DevOps, ML, and more
+- **100+ Weekly Coding Contests** (PB Hustle)
+- **Active Open Source Community** with contributors worldwide
 
----
+## 🎯 Get Involved
 
-## 🌐 **Community & Collaboration**  
+Whether you're interested in competitive programming, building web apps, exploring ML, or contributing to open source—there's a place for you here.
 
-We bring together students from all engineering branches and years, enabling them to participate in prestigious events like:  
+- **New to Open Source?** Check out our [good first issues](https://github.com/search?q=org%3Apointblank-club+label%3A%22good+first+issue%22&type=issues)
+- **Want to Contribute?** Read our [Contributing Guidelines](https://github.com/pointblank-club/.github/blob/main/CONTRIBUTING.md)
+- **GSoC Interested?** Visit our [GSoC 2026 Ideas](https://github.com/pointblank-club/gsoc-2026)
 
-- 🌟 **Google Summer of Code (GSoC)**  
-- 🏆 **Smart India Hackathon (SIH)**  
+## 📊 GitHub Stats
 
-Point Blank is a hallmark of collaborative excellence, standing as a leading tech group within DSCE and beyond.  
-
----
-
-## 🚀 **Featured Projects**  
-
-### 🌐 [**pbwebsite**](https://github.com/pbdsce/pbwebsite)  
-The official Point Blank website showcasing achievements and initiatives:  
-
-- ⚡ Built with **Next.js** and **Tailwind CSS**  
-- 🔧 Backend powered by **Firebase**  
-
-**Quick Links:**  
-- 🌍 [Live Website](https://www.pointblank.club)  
-- 🛠️ [Issues](https://github.com/pbdsce/pbwebsite/issues)  
+<p align="center">
+    <img width="500" src="../github-metrics.svg" alt="GitHub Stats">
+</p>
 
 ---
 
-## 🌟 **Connect With Us**  
-
-Join the Point Blank community and stay updated on our activities:  
-
-- 🌍 **Website:** [pointblank.club](https://www.pointblank.club)  
-- 🐙 **GitHub:** [github.com/pbdsce](https://github.com/pbdsce)  
-- 📸 **Instagram:** [@pointblank_dsce](https://www.instagram.com/pointblank_dsce/)  
-- 🐦 **X (formerly Twitter):** [@pointblank_dsce](https://x.com/pointblank_dsce)  
-
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">  
-    <img width="500" src="../github-metrics.svg" alt="GitHub Stats">  
-</p>  
+<p align="center">
+Made with ❤️ by the Point Blank Community
+</p>
