@@ -20,7 +20,9 @@ Building practical open source alternatives through collaborative innovation. Sp
   &nbsp;
 </p>
 <div align="center">
+  
 [<kbd><br><b> ⭐ Star and Explore Projects ➜ </b><br></kbd>](https://github.com/pointblank-club) [<kbd><br><b> 👥 Join our Community ➜ </b><br></kbd>](https://discord.gg/wxxCA2J5EV)
+
 </div>
 <br>
 
