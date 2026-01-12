@@ -2,15 +2,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pointblank-club/.github/main/profile/logo.svg" width="400px" alt="Point Blank Logo"/>
 </p>
-
 <h1 align="center"> Welcome to Point Blank 👋 </h1>
-
 <h5 align="center">
-Building practical open source alternatives through collaborative innovation. From competitive programming platforms to developer tools, we create software that communities actually use.
+Building practical open source alternatives through collaborative innovation. Specializing in security tools, compilers, and developer tooling that communities actually use.
 </h5>
-
 <br>
-
 <p align="center">
   <a href="https://twitter.com/pointblank_club" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   &nbsp;
@@ -23,31 +19,28 @@ Building practical open source alternatives through collaborative innovation. Fr
   <a href="https://instagram.com/pointblank_club" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   &nbsp;
 </p>
-
 <div align="center">
-
 [<kbd><br><b> ⭐ Star and Explore Projects ➜ </b><br></kbd>](https://github.com/pointblank-club) [<kbd><br><b> 👥 Join our Community ➜ </b><br></kbd>](https://discord.gg/wxxCA2J5EV)
-
 </div>
-
 <br>
 
 ## 🚀 What We Do
 
-We're a tech collective building open source alternatives and developer tools. Our projects range from competitive programming trackers to campus management systems—all built collaboratively, all production-ready.
+We're a tech collective building open source alternatives and developer tools, with a focus on security, compilers, and dev tooling. Our projects range from competitive programming trackers to campus management systems, all built collaboratively, all production-ready.
 
-**Domains:** Competitive Programming • Web & Mobile Development • ML/AI • DevOps • Cybersecurity • Open Source
+**Core Domains:** Security • Compilers • Developer Tooling • Competitive Programming • Web & Mobile Development • ML/AI • DevOps
 
 ## 🌟 Community Highlights
 
-- **20+ GSoC Contributors** and **6+ LFX Mentees** across multiple years
-- **100+ Technical Workshops** on open source, DevOps, ML, and more
+- **20+ Point Blank members** contributed to GSoC with organizations like CNCF, AsyncAPI, OpenMRS, Git, Webpack, and more
+- **6+ Point Blank members** participated in LFX Mentorship across multiple terms
+- **100+ Technical Workshops** on open source, security, DevOps, compilers, and more
 - **100+ Weekly Coding Contests** (PB Hustle)
 - **Active Open Source Community** with contributors worldwide
 
 ## 🎯 Get Involved
 
-Whether you're interested in competitive programming, building web apps, exploring ML, or contributing to open source—there's a place for you here.
+Whether you're interested in security research, building compilers, creating developer tools, or contributing to open source—there's a place for you here.
 
 - **New to Open Source?** Check out our [good first issues](https://github.com/search?q=org%3Apointblank-club+label%3A%22good+first+issue%22&type=issues)
 - **Want to Contribute?** Read our [Contributing Guidelines](https://github.com/pointblank-club/.github/blob/main/CONTRIBUTING.md)
