@@ -25,29 +25,37 @@ Building practical open source alternatives through collaborative innovation. Sp
 
 </div>
 <br>
-🚀 What We Do
+
+## 🚀 What We Do
+
 We're a tech collective building open source alternatives and developer tools, with a focus on security, compilers, and dev tooling. Our projects range from competitive programming trackers to campus management systems—all built collaboratively, all production-ready.
-Core Domains: Security • Compilers • Developer Tooling • Competitive Programming • Web & Mobile Development • ML/AI • DevOps
-🌟 Community Highlights
 
-Thriving Open Source Community with members contributing to organizations like CNCF, AsyncAPI, OpenMRS, Git, Webpack, Arduino, Prometheus, and more
-Co-organized IICT 2025 (Innovations In Compiler Technology Workshop) at IISc Bangalore—an ACM sponsored event with India's first compiler-themed hackathon
-1000+ participants across multiple editions of PBCTF (Point Blank Capture The Flag)
-100+ Technical Workshops on open source, security, DevOps, compilers, and more
-100+ Weekly Coding Contests (PB Hustle)
-5/5 victory rate at Smart India Hackathon 2025
+**Core Domains:** Security • Compilers • Developer Tooling • Competitive Programming • Web & Mobile Development • ML/AI • DevOps
 
-🎯 Get Involved
+## 🌟 Community Highlights
+
+- **Thriving Open Source Community** with members contributing to organizations like CNCF, AsyncAPI, OpenMRS, Git, Webpack, Arduino, Prometheus, and more
+- **Co-organized IICT 2025** (Innovations In Compiler Technology Workshop) at IISc Bangalore—an ACM sponsored event with India's first compiler-themed hackathon
+- **1000+ participants** across multiple editions of PBCTF (Point Blank Capture The Flag)
+- **100+ Technical Workshops** on open source, security, DevOps, compilers, and more
+- **100+ Weekly Coding Contests** (PB Hustle)
+- **5/5 victory rate** at Smart India Hackathon 2025
+
+## 🎯 Get Involved
+
 Whether you're interested in security research, building compilers, creating developer tools, or contributing to open source—there's a place for you here.
 
-New to Open Source? Check out our good first issues
-Want to Contribute? Read our Contributing Guidelines
-Interested in GSoC? Visit our GSoC 2026 Ideas
+- **New to Open Source?** Check out our [good first issues](https://github.com/search?q=org%3Apointblank-club+label%3A%22good+first+issue%22&type=issues)
+- **Want to Contribute?** Read our [Contributing Guidelines](https://github.com/pointblank-club/.github/blob/main/CONTRIBUTING.md)
+- **Interested in GSoC?** Visit our [GSoC 2026 Ideas](https://github.com/pointblank-club/gsoc-2026)
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
     <img width="500" src="../github-metrics.svg" alt="GitHub Stats">
 </p>
+
+---
 
 <p align="center">
 Made with ❤️ by the Point Blank Community
